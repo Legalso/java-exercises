@@ -9,7 +9,6 @@ public class Main {
         int fahrenheit = (int) ((celsius * 1.8) + 32);
         System.out.println("A temperatura convertida para Fahrenheit é: " + fahrenheit +"°F");
     }
-
     /* Resposta correta:
     public static void main(String[] args) {
         double temperaturaEmCelsius = 30.4;
@@ -21,7 +20,6 @@ public class Main {
 
         int temperaturaEmFahrenheitInteira = (int) temperaturaEmFahrenheit;
         System.out.println("A temperatura em Fahrenheit inteira é: " + temperaturaEmFahrenheitInteira);
-
     }
     */
 }
