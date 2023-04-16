@@ -1,6 +1,7 @@
 # java-exercises
 
 Some Java Exercises
+Alguns são exercícios das aulas da faculdade, outros achei pela internet ou peguei do curso da Alura.
 
 - [x] Escreva um programa que converta uma temperatura em graus Celsius para Fahrenheit.
 - [x] Ler as dimensões de um retângulo (base e altura), calcular e escrever a área do retângulo.
