@@ -1,6 +1,6 @@
 # java-exercises
 
-Some Java Exercises
+Some Java Exercises<br>
 Alguns são exercícios das aulas da faculdade, outros achei pela internet ou peguei do curso da Alura.
 
 - [x] Escreva um programa que converta uma temperatura em graus Celsius para Fahrenheit.
