@@ -5,7 +5,7 @@ public class TestaPedido {
         int codigo;
         Scanner teclado = new Scanner(System.in);
         System.out.println("Digite seu código: ");
-        codigo=teclado.nextInt();
+        codigo = teclado.nextInt();
         teclado.nextLine();
         System.out.println("Digite o seu nome: ");
         nome = teclado.nextLine();
