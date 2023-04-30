@@ -7,5 +7,16 @@ public class Main {
             System.out.println("for: "+x);
         }
 
+        int i = 0;
+        while (i <= 100) {
+            System.out.println("while: " + i);
+            i++;
+        }
+
+        int c = 0;
+        do {
+            System.out.println("do while: "+ c);
+            c++;
+        } while (c <= 100);
     }
 }
