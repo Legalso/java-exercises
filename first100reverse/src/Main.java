@@ -3,16 +3,21 @@ public class Main {
         /* Escreva um programa que exibe os primeiros 100 números naturais.
         Faça versões usando for, while e do/while, mas dessa vez ao contrário */
 
+
+        //for
         for (int x = 100; x >= 0; x--) {
             System.out.println("for: "+x);
         }
 
+        //while
         int a = 100;
         while (a >= 0) {
             System.out.println("while: "+a);
             a--;
         }
 
+
+        //do while
         int b = 100;
         do {
             System.out.println("do while: "+b);
